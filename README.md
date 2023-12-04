@@ -29,5 +29,9 @@ node -v
 
 
 
-
+D:--> D드라이브로 들어간다 C:--> C드라이브로 들어간다
 dir --> 파일 안에 뭐가 들어있는지 보여줌
+
+
+
+react-->설치--새로운 React 앱 만들기--npx create-react-app my-app 복사
