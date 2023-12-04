@@ -35,3 +35,8 @@ dir --> 파일 안에 뭐가 들어있는지 보여줌
 
 
 react-->설치--새로운 React 앱 만들기--npx create-react-app my-app 복사
+
+사이트 보고 파일 만든 다음 터미널 들어가서 따라치기
+npx create-react-app my-app
+cd my-app
+npm start
