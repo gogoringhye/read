@@ -21,3 +21,5 @@ node -v
 * npm --> 외부라이브러리를 쉽게 설치하고 버전을 관리할 수 있게 함 --> package.json를 만들게 된다
 
 * npx --> 라이브러리를 개별적으로 실행하고자 할때 사용하는 것임
+
+![image](https://github.com/gogoringhye/read/assets/145514996/4d10b6a3-ac3e-4198-8e45-8e3a92957523)
