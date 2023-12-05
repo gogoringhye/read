@@ -57,11 +57,8 @@ npm start
 - 페이지를 매번 새로 가져올 필요가 없음, 웹사이트를 모바일처럼 사용할 수 있음
 
 
-
-
-
-
-
+# react 확장프로그램
+![image](https://github.com/gogoringhye/read/assets/145514996/53e7fcab-f1ba-4b3c-92cc-f5f3dc9b4e5d)
 
 
 
