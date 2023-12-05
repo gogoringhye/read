@@ -65,11 +65,11 @@ npm start
 -react 코드 정렬
 ![image](https://github.com/gogoringhye/read/assets/145514996/1dbe4bd0-addd-410f-bde6-e679304b29c8)
 
+## format save 설정하기
+![image](https://github.com/gogoringhye/read/assets/145514996/9182bba0-ec46-48e4-8cf3-a63f5b86b0c9)
 
 
-
-
-
+![image](https://github.com/gogoringhye/read/assets/145514996/57238c23-d221-4dc9-b2bc-daf7d3235b63)
 
 
 
