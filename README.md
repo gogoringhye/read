@@ -1,3 +1,6 @@
+영어 원문 사이트
+https://www.react.org/
+
 # 1. node.js 설치
 * 자바스크립트를 브라우저 밖에서도 동작할 수 있게 하는 런타임 환경
 * Node.js가 제공하는 것이 npm(Node Package MAnager)
@@ -28,6 +31,36 @@ node -v
 ![2](https://github.com/gogoringhye/read/assets/145514996/e8291a92-f0f0-48ae-98b1-6e918931d03f)
 
 
+# 1. 폴더 생성
+## - 프로젝트를 만들 폴더를 만든다 ex)my-react
+# 2. 리액트에서 필요한 패키지를 자동으로 설치해주는 명령어를 입력한다
+```
+npx create-react-app my-app
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 D:--> D드라이브로 들어간다 C:--> C드라이브로 들어간다
 dir --> 파일 안에 뭐가 들어있는지 보여줌
@@ -43,5 +76,4 @@ npm start
 
 
 
-영어 원문 사이트
-https://www.react.org/
+
