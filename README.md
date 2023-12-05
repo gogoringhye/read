@@ -47,8 +47,10 @@ my-app 폴더 안으로 진입한다
 ```
 cd my-app
 ```
-
+my-app 안의 소스를 실행한다
+```
 npm start
+```
 
 
 
