@@ -40,3 +40,8 @@ react-->설치--새로운 React 앱 만들기--npx create-react-app my-app 복�
 npx create-react-app my-app
 cd my-app
 npm start
+
+
+
+영어 원문 사이트
+https://www.react.org/
