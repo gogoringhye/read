@@ -58,11 +58,11 @@ npm start
 
 
 # react 확장프로그램
--react 코드 정렬
+
+- react의 기본 구조를 만들어줌(Beautify와 비슷한 역할)
 ![image](https://github.com/gogoringhye/read/assets/145514996/53e7fcab-f1ba-4b3c-92cc-f5f3dc9b4e5d)
 
-
-- react의 기본 구조를 만들어줌()
+-react 코드 정렬
 ![image](https://github.com/gogoringhye/read/assets/145514996/1dbe4bd0-addd-410f-bde6-e679304b29c8)
 
 
