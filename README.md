@@ -66,14 +66,8 @@ npm start
 ![image](https://github.com/gogoringhye/read/assets/145514996/1dbe4bd0-addd-410f-bde6-e679304b29c8)
 
 ## format save 설정하기
-![image](https://github.com/gogoringhye/read/assets/145514996/9182bba0-ec46-48e4-8cf3-a63f5b86b0c9)
 
-
-![image](https://github.com/gogoringhye/read/assets/145514996/57238c23-d221-4dc9-b2bc-daf7d3235b63)
-
-
-
-![제목 없음](https://github.com/gogoringhye/read/assets/145514996/a8ff8aa7-78a1-4145-8533-77e8a59eb1f9)
+![제목 없음](https://github.com/gogoringhye/read/assets/145514996/5999a7d2-0c6e-4902-9f6f-cbb39ff4bca0)
 
 
 
