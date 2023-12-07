@@ -1,3 +1,8 @@
+
+@@@셋팅 방법
+
+
+
 영어 원문 사이트
 https://www.react.org/
 🔎
@@ -69,6 +74,24 @@ npm start
 ## format save 설정하기
 
 ![제목 없음](https://github.com/gogoringhye/read/assets/145514996/5999a7d2-0c6e-4902-9f6f-cbb39ff4bca0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
