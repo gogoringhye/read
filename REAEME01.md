@@ -29,5 +29,44 @@ function App() {
 export default App;
 ```
 
--있으나 없으나임
+-확장프로그램인데 있으나 없으나
 ![image](https://github.com/gogoringhye/read/assets/145514996/4856938c-c7f3-4e90-b737-96727e0d61ca)
+
+```
+231207 수업
+
+import logo from "./logo.svg";
+import "./App.css";
+
+function App() {
+  const name = "멍멍";
+  const list = ["기침", "감기", "약"];
+  return (
+    <>
+      <h1 className="dog">{name}해봐 멍멍!</h1>
+      <h1 className="dog">{`${name}해봐 멍멍!`}</h1>
+      <ul>
+        <li>기침</li>
+        <li>감기</li>
+        <li>약</li>
+      </ul>
+      <ul>
+        {/* {list.map((item) => {
+          return <li>{item}</li>;
+        })} */}
+        {list.map((item) => (
+          <li>{item}</li>
+        ))}
+      </ul>
+      <img
+        style={{ width: "736px", height: "414px" }}
+        src="https://i.pinimg.com/736x/37/f0/88/37f088cc876aef69ebc82e7c3f98362f.jpg"
+        alt="img"
+      ></img>
+    </>
+  );
+}
+
+export default App;
+
+```
