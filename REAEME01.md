@@ -8,4 +8,4 @@ https://react.dev/learn#writing-markup-with-jsx
 
 - class명을 className-"class명"
 
-- javaScript코드를 JSX 문법 안에서 사용해야 할때는 {javaScript코드}형식으로 사용해야한다 
+- javaScript코드를 JSX 문법 안에서 사용해야 할때는 {javaScript 코드}형식으로 사용해야한다.
