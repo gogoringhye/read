@@ -7,3 +7,5 @@ https://react.dev/learn#writing-markup-with-jsx
 - 태그 대신 <> </> --> Fragment를 사용할 수 있다
 
 - class명을 className-"class명"
+
+- javaScript코드를 JSX 문법 안에서 사용해야 할때는 {javaScript코드}형식으로 사용해야한다 
