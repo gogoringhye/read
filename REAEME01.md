@@ -6,4 +6,4 @@ https://react.dev/learn#writing-markup-with-jsx
 
 - 태그 대신 <> </> --> Fragment를 사용할 수 있다
 
-- class 명을 className-"class명"
+- class명을 className-"class명"
