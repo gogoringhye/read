@@ -1,3 +1,7 @@
-dd
-![image](https://github.com/gogoringhye/read/assets/145514996/99e76b81-7d38-479c-847b-9224615d0301)
-![Uploading image.png…]()
+# JSX 문법
+
+https://react.dev/learn#writing-markup-with-jsx
+
+- 컴퍼넌트의 return()에서는 반드시 하나의 태그로 싸여있어야한다.
+
+- 태그 대신 <> </> --> Fragment를 사용할 수 있다
