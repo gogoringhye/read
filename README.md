@@ -109,4 +109,7 @@ npm start
 
 
 
-
+깔고나서도 수업 할때
+터미널 열고 
+cd my-app
+npm start 쳐야 실행됨
