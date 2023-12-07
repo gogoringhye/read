@@ -10,3 +10,21 @@
 - 인라인 스타일로 css를 작성할 때 ==> 밖의 {}는 자바스크립트를 사용한다는 의미로 해석, 안의 {}는 객체를 사용한다는 의미
 - <div style={{ width: "300px", height: "200px" }}>추가하기</div>
 ```
+```
+import logo from "./logo.svg";
+import "./App.css";
+
+function App() {
+  const name = "멍멍";
+  return (
+    <>
+      <div className="App">
+        <p> {`${name} 시작하기`} </p>
+      </div>
+      <div style={{ width: "300px", height: "200px" }}>추가하기</div>
+    </>
+  );
+}
+
+export default App;
+```
