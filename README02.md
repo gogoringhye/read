@@ -10,3 +10,4 @@
 ```
 "emmet.excludeLanguages":{"javascript":"javascriptreact"}
 ```
+![image](https://github.com/gogoringhye/read/assets/145514996/1307b152-64ee-462b-bc0c-42ed31a64dd2)
