@@ -15,3 +15,8 @@
 
 ![image](https://github.com/gogoringhye/read/assets/145514996/efeca23c-b1d5-47f1-af9e-c5f36fdd1e97)
 
+
+
+
+
+구조분해 형식
