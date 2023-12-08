@@ -8,6 +8,6 @@
 ![image](https://github.com/gogoringhye/read/assets/145514996/c54d4e0b-0c3d-4d73-acc0-66b644d2a8e8)
 
 ```
-"emmet.excludeLanguages":{"javascript":"javascriptreact"}
+"emmet.includeLanguages":{"javascript":"javascriptreact"}
 ```
 ![image](https://github.com/gogoringhye/read/assets/145514996/1307b152-64ee-462b-bc0c-42ed31a64dd2)
