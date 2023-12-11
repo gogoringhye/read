@@ -5,3 +5,4 @@ const [num, setNum]=useState(0)
 num를 변하게 하는 함수 ==> setNum --> 함수를 이용하여 num를 변경한다.
 useState(0)의 0은 num의 초기값
 ```
+![image](https://github.com/gogoringhye/read/assets/145514996/8c932683-4e9a-46d1-9dea-957d773098e6)
