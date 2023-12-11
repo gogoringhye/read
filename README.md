@@ -113,3 +113,7 @@ npm start
 터미널 열고 
 cd my-app
 npm start 쳐야 실행됨
+
+
+![image](https://github.com/gogoringhye/read/assets/145514996/07108f30-05be-4226-9eef-21c38e18bf79)
+
