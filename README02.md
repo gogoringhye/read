@@ -35,6 +35,5 @@
 
 
 
-
--했던거 복습띠
+# 기본 다시 해보기(-했던거 복습띠)
 ![image](https://github.com/gogoringhye/read/assets/145514996/7462bb7c-fc18-4e31-9e32-6444bd6f0e93)
