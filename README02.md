@@ -36,4 +36,5 @@
 
 
 # 기본 다시 해보기(-했던거 복습띠)
+컴포넌트는 대문자로 시작해야함
 ![image](https://github.com/gogoringhye/read/assets/145514996/e0aec087-2b67-488f-b18f-d74fa193b4e8)
