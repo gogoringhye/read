@@ -15,3 +15,8 @@ useState(0)의 0은 num의 초기값
 
 복습
 ![image](https://github.com/gogoringhye/read/assets/145514996/8976406f-7c88-40f5-ac32-e383f3404436)
+
+
+
+
+![image](https://github.com/gogoringhye/read/assets/145514996/37130cd3-f2a6-47bb-9bea-7eaf8c7467d2)
