@@ -32,6 +32,7 @@ useState(0)의 0은 num의 초기값
 
 ![image](https://github.com/gogoringhye/read/assets/145514996/f9d511c2-0b30-441c-836a-dd94be5d6902)
 
-
-
+이거를
+![image](https://github.com/gogoringhye/read/assets/145514996/ede32548-2907-445e-b835-e0dde4804c1e)
+이렇게
 ![image](https://github.com/gogoringhye/read/assets/145514996/48399c85-6ca9-4c53-8be8-375f825a5487)
