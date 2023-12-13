@@ -1,3 +1,5 @@
+#폴더 src 참조
+
 #react에서는 이 데이터를 변할 수 있는 값이며 값이 변할때마다 UI를 변경해 달라고(화면을 다시 그려달라고) 알려야한다. 그럴 때 사용하는 것이 useState()이다.
 ```
 const [num, setNum]=useState(0)
