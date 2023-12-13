@@ -50,7 +50,7 @@ useState(0)의 0은 num의 초기값
 
 
 
-
+# 부분적으로 값 받기
 
 ![image](https://github.com/gogoringhye/read/assets/145514996/d92bbab6-5d70-4982-8043-e70294d4072a)
 ![image](https://github.com/gogoringhye/read/assets/145514996/f79e92e7-cece-4baa-9094-b076006ebedb)
