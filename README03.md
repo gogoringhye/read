@@ -125,6 +125,8 @@ export default Profile;
 
 ![image](https://github.com/gogoringhye/read/assets/145514996/cb39d774-3591-4994-a0d2-4baf57f3a692)
 ```
+//폴더 src2 참조
+
 import { useState } from "react";
 import "./App.css";
 import Profile from "./components/Profile";
