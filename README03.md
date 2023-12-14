@@ -88,6 +88,41 @@ return (
 export default Profile;
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/gogoringhye/read/assets/145514996/cb39d774-3591-4994-a0d2-4baf57f3a692)
 ```
 import { useState } from "react";
