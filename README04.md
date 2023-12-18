@@ -9,7 +9,8 @@
 
 ```
 Router Components--BrowserRouter
-![image](https://github.com/gogoringhye/read/assets/145514996/26cc480b-edbb-449f-9246-1366f843112c)
+![image](https://github.com/gogoringhye/read/assets/145514996/b70b8301-9ffe-41dd-b34a-94e49d4ad2eb)
+
 
 
 Components--Routes
