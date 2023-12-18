@@ -4,7 +4,7 @@
 
 1. 설치하기(Getting Started--Tutorial--setup) ➡ npm install react-router-dom
 
-
+# BrowserRouter는 react 전체를 싸주어야한다.
 ```
 
 ```
