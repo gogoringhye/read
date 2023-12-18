@@ -19,12 +19,13 @@ Components--Routes
 ![image](https://github.com/gogoringhye/read/assets/145514996/eb4d1564-29e1-4dca-bed1-46a633735f72)
 
 
+Components-Link
 # 🤓 링크로 연결해서 페이지로 갈 때 
 
 # Link는 a 태그로 변환된다. 라우터 간에 이동할 수 있게 도와주는 링크
 ![image](https://github.com/gogoringhye/read/assets/145514996/43ae5611-623b-4e91-ab80-352f693a06e1)
 
-
+Components-Navigate
 # 🤷‍♀️ click 버튼을 클릭해서 페이지로 갈 때(함수 안에서 사용하는 방법)
 
 
