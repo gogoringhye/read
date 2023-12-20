@@ -5,7 +5,7 @@
 # useEffect(()=>{},[]) ==> 배열이 비어있을 경우에는 component가 실행될 때 처음 한번만 실행된다.
 ![image](https://github.com/gogoringhye/read/assets/145514996/438e97cf-7ad3-410c-8314-6925001a15d7)
 
-# useEffect(()=>{},[products의 값이 바뀔때마다 useEffect가 실행됨])
+# useEffect(()=>{},[products]) ==> component가 실행될 때 처음 한번 실행된 후 products 값이 바뀔때마다 useEffect가 실행됨
 ![image](https://github.com/gogoringhye/read/assets/145514996/c4dbe176-1d92-4e13-9b14-91da8a9a754d)
 
 
