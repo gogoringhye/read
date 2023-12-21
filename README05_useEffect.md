@@ -11,5 +11,5 @@
 # useEffect(()=>{},[products, count]) ==> component가 실행될 때 처음 한번 실행된 후 products와 count 중에 하나라도 값이 바뀌면 useEffect가 실행됨(2개 다 바뀌어도 한번만 실행됨)
 ![image](https://github.com/gogoringhye/read/assets/145514996/c4dbe176-1d92-4e13-9b14-91da8a9a754d)
 
-
-
+# useEffect()가 종료되는 시점에 데이터가 변경된다.
+![image](https://github.com/gogoringhye/read/assets/145514996/19c4c8bd-4838-4fe3-9048-c638d2283003)
