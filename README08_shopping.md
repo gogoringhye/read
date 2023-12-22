@@ -11,6 +11,7 @@ npm install react-router-dom
 ###### RESTful --> Repersentation State Transfer의 약자 
 ![image](https://github.com/gogoringhye/read/assets/145514996/9234421b-ac59-45d8-b031-42dbd004b35e)
 
+###### RESTful Routes는 url 패턴을 말한다.
 
 
 2️⃣ index.js에 BrowserRouter 실행(Router Components-BrowserRouter)
