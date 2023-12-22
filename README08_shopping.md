@@ -8,7 +8,7 @@
 npm install react-router-dom
 ```
 
-# restful route
+### RESTful 
 ![image](https://github.com/gogoringhye/read/assets/145514996/9234421b-ac59-45d8-b031-42dbd004b35e)
 
 
