@@ -14,6 +14,10 @@
 # useEffect()가 종료되는 시점에 데이터가 변경된다.
 ![image](https://github.com/gogoringhye/read/assets/145514996/19c4c8bd-4838-4fe3-9048-c638d2283003)
 
+
+# 이전값 prev
+
+setNum((이전값)=> 이전값 +1)
 ```
 import { useState } from "react";
 import "./App.css";
