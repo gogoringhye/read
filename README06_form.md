@@ -7,3 +7,7 @@
         <input type="text" />
       </form>
 ```
+
+
+# input 태그에서는 onChange={(e)=>{}}
+![image](https://github.com/gogoringhye/read/assets/145514996/6feb5204-7f2c-4e90-8041-f6fe970b268f)
