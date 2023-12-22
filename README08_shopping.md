@@ -3,4 +3,10 @@
 ```
 npm install react-router-dom
 ```
-:rage1:
+
+1️⃣
+2️⃣
+3️⃣
+4️⃣
+5️⃣
+6️⃣
