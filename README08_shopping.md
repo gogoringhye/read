@@ -1,18 +1,21 @@
 ## 🤶 react router dom 설치
 
 
+###### RESTful --> Repersentation State Transfer의 약자 
+###### RESTful Routes는 url 패턴을 말한다.
+ * get: 데이터 가져올 때 사용한느 패턴
+ * post: 새로운 데이터를 만들 때 사용하는 패턴
+ * put: 기존 데이터를 수정할 때 사용하는 패턴
+ * delete: 데이터를 삭제할 때 사용하는 패턴
+![image](https://github.com/gogoringhye/read/assets/145514996/9234421b-ac59-45d8-b031-42dbd004b35e)
+
+
 
 
 1️⃣ react router dom 설치
 ```
 npm install react-router-dom
 ```
-
-###### RESTful --> Repersentation State Transfer의 약자 
-###### RESTful Routes는 url 패턴을 말한다.
-![image](https://github.com/gogoringhye/read/assets/145514996/9234421b-ac59-45d8-b031-42dbd004b35e)
-
-
 
 2️⃣ index.js에 BrowserRouter 실행(Router Components-BrowserRouter)
 ![image](https://github.com/gogoringhye/read/assets/145514996/be34c631-7bd9-4466-8bff-131b2610cb8a)
