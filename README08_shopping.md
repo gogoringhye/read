@@ -1,9 +1,17 @@
 ## 🤶 react router dom 설치
 
+
+
+
 1️⃣ react router dom 설치
 ```
 npm install react-router-dom
 ```
+
+# restful router
+![image](https://github.com/gogoringhye/read/assets/145514996/9234421b-ac59-45d8-b031-42dbd004b35e)
+
+
 
 2️⃣ index.js에 BrowserRouter 실행(Router Components-BrowserRouter)
 ![image](https://github.com/gogoringhye/read/assets/145514996/be34c631-7bd9-4466-8bff-131b2610cb8a)
