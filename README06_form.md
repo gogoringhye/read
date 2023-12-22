@@ -9,5 +9,7 @@
 ```
 
 
-# input 태그에서는 onChange={(e)=>{}}
+# input 태그에서는 onChange={(e)=>{setName(e.target.value)}}
+# e ==> 이벤트 받음    상태의 값을 변경하기 위해 setName 함수를 사용하며
+# 사용자가 입력한 값을 상태값으로 적용하기 위해 e.target.value를 사용한다
 ![image](https://github.com/gogoringhye/read/assets/145514996/6feb5204-7f2c-4e90-8041-f6fe970b268f)
