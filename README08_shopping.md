@@ -7,7 +7,7 @@
  * post: 새로운 데이터를 만들 때 사용하는 패턴
  * put: 기존 데이터를 수정할 때 사용하는 패턴
  * delete: 데이터를 삭제할 때 사용하는 패턴
-![image](https://github.com/gogoringhye/read/assets/145514996/9234421b-ac59-45d8-b031-42dbd004b35e)
+# ![image](https://github.com/gogoringhye/read/assets/145514996/9234421b-ac59-45d8-b031-42dbd004b35e)
 
 
 
