@@ -17,3 +17,4 @@ regular에 대한 추가 설치
 Start -- 화면 하단 react 버튼 클릭 --  Free -- npm i --save @fortawesome/free-regular-svg-icons 
 ```
 
+![image](https://github.com/gogoringhye/read/assets/145514996/8813a586-73fd-4ce5-a781-de28759d4779)
