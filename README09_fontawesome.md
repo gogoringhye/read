@@ -8,5 +8,5 @@ npm install --save @fortawesome/react-fontawesome
 ```
 
 ```
-Start -- 화면 하단 react 버튼 클릭 --  Free -- npm i --save @fortawesome/free-regular-svg-icons 설치
+Start -- 화면 하단 react 버튼 클릭 --  Free -- npm i --save @fortawesome/free-regular-svg-icons 
 ```
