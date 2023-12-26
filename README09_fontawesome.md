@@ -9,7 +9,6 @@ npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
 ```
 
-# regular 필요
 ```
 regular에 대한 추가 설치
 
