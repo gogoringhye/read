@@ -17,7 +17,10 @@ http://localhost:3004/products/1
 ##### 파라미터 값을 읽어와야할때 useParams hook이다
 ![image](https://github.com/gogoringhye/read/assets/145514996/8cb8cc22-dfe3-4e65-9207-6ea926805a38)
 
+##### 문법 --> ?
 
-
-
+```
+<img src="{product?.img}" alt="" />
+```
+product?.img ==> product가 있으면 product.img를 출력하라
 
