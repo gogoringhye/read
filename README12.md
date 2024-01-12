@@ -12,6 +12,8 @@ http://localhost:3004/products/1
 ```
 ##### url 주소에서 파라미터는 제일 뒤에 있는 1이라는 숫자이다. id 값이 들어와 있다.
 ##### 파라미터 값을 읽어와야할때 useParams hook이다
+![Uploading image.png…]()
+
 ![image](https://github.com/gogoringhye/read/assets/145514996/ade7dc66-b1f8-4fd3-95b8-59d6531e3658)
 
 
