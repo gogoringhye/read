@@ -9,6 +9,7 @@
 ```
 http://localhost:3004/products/1
 ```
+# 1
 ![image](https://github.com/gogoringhye/read/assets/145514996/ade7dc66-b1f8-4fd3-95b8-59d6531e3658)
 
 
