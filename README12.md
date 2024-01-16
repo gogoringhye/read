@@ -30,4 +30,4 @@ product?.img ==> product가 있으면 product.img를 출력하라
 쿼리스트링은 URL의 끝에 "?" 문자로 시작하며, 이후에 "이름=값" 형태의 매개변수들이 "&" 문자로 구분되어 나열됩니다.
 ```
 
-navigate(`/?q=${keyword}`) --> 쿼리스트링(query string) 입력하기
+##### navigate(`/?q=${keyword}`) --> 쿼리스트링(query string) 입력하기
