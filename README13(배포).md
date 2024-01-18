@@ -8,3 +8,7 @@ https://my-json-server.typicode.com/<your-username>/<your-repo>
 ### ![image](https://github.com/gogoringhye/read/assets/145514996/3855b03a-28eb-4561-8288-40f5969166ef)
 
 ### ![image](https://github.com/gogoringhye/read/assets/145514996/c2d60e39-eaa5-42f9-a827-6d437707ad1d)
+
+### netify에 업로드할때 수정해야할 부분(ci의 대문자)
+### ![Uploading KakaoTalk_20240118_112838337.png…]()
+
